@@ -1,0 +1,6 @@
+Para executar o programa :
+
+ 	Abra a Classe ContaUrl
+	Na Linha 27 editar o endereço do arquivo a ser lido.
+	Execute o Programa
+	O Programa mostra a contagem de repetições de cada URL
